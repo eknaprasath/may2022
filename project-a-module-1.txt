@@ -1,0 +1,2 @@
+This is skeleton for the project file 
+initial commit.
